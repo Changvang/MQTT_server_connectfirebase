@@ -1,0 +1,16 @@
+{
+  "name": "saitou-dadn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/firestore": "^4.1.1",
+    "@google-cloud/storage": "^5.1.2",
+    "mqtt": "^4.1.0"
+  }
+}

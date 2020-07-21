@@ -1,0 +1,10 @@
+{
+	"device_id" : "Nhom4",
+	"username" : "Bkvm",
+	"password" : "Hcmut_CSE_2020",
+	"host" : "52.187.125.59",
+	"port" : 1883,
+	"keepAlive" : 10000,
+  "up_topic": "Topic/Speaker",
+  "down_topic": "Topic/TempHumi"
+}
